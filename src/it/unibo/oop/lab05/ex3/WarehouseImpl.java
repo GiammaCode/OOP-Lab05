@@ -1,6 +1,5 @@
 package it.unibo.oop.lab05.ex3;
 
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
